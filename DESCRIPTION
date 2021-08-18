@@ -13,7 +13,7 @@ Description: An extensive implementation of state-of-the-art and classical
     algorithms to preprocess label noise in classification problems.
 License: GPL-3
 LazyData: TRUE
-Imports: RWeka, kknn, nnet, caret, e1071, rpart, randomForest, MASS, stats, utils
+Imports: kknn, nnet, caret, e1071, rpart, randomForest, MASS, stats, utils
 Depends: R (>= 3.3.0)
 RoxygenNote: 5.0.1
 Suggests: knitr, rmarkdown, testthat
